@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/insertarP" android:title="Insertar" />
+    <item android:id="@+id/consultarP" android:title="Consultar"/>
+    <item android:id="@+id/modificarP" android:title="Modificar"/>
+    <item android:id="@+id/eliminarP" android:title="Eliminar"/>
+</menu>
